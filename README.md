@@ -32,3 +32,37 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Watch on the youtube video as below to create tiktok app from scratch
+
+https://www.youtube.com/watch?v=CcBHZ0t2Qwc
+
+## The command to create Next.js app with Typescript↓
+npx create-next-app@latest ./ --ts
+
+## Install Sanity
+
+npm install -g @sanity/cli
+
+## coupon
+
+sanity init --coupon javascriptmastery2022
+
+## set up clean project with no predefined schemas
+
+Clean project with no predefined schemas 
+
+## Cleate schemas and register the schemas in schema.js then run command below
+
+sanity start
+
+## package.json ファイルのdependenciesの各バージョンを確認し　下記を　run
+
+npm install --legacy-peer-deps
+
+## Install Tailwindcss
+
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
